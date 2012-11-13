@@ -1,4 +1,4 @@
-Allwinner A10 Hacks
+Allwinner A10 Android ICS Hacks
 =======================
 
 
