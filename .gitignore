@@ -1,0 +1,5 @@
+backup
+work
+.tmp
+*.sh~
+*.*~
